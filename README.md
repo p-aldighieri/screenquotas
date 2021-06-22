@@ -12,6 +12,10 @@ The whole dataset consists of 12,820,617 individual sessions, spanning 2,178 uni
 
 To run reduced-form regressions, I build a panel grouping data by movie-theater chain/year level, combining information regarding screen quota obligations and fulﬁllment from inspection data. As an auxiliary source of data, we also use Brazilian oﬃcial inﬂation statistics data to correct all prices for inflation using the IPCA price index.
 
+## Regressions
+
+I run several regression specifications. To capture causal effects of quotas' on outcome variables, the preferred specification uses the interaction between screen quotas and compliance levels weighted by different kernels. Kernel weighting mimics the fact that quota effects are likely higher in narrowly compliant agents (ones around 100% compliance). 
+
 ## File description
 
 Cota_fiscalizacao_2017_2019.csv -- Inspection data organized at movie theater-level  (see INSPECTION DATA notebook)
