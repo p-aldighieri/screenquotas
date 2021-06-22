@@ -6,9 +6,9 @@ The details surrounding the policy have changed throughout the years, but a basi
 
 ## Data
 
-The analysis uses administrative micro-level data from the Brazilian national regulator ([Ancine](https://www.gov.br/ancine/pt-br)). The main sources of data used are:  <b>(a)</b> ticket-sales session-level data from exhibitors, from 2017 to 2019; and <b>(b)</b> inspection reports regarding screen quotas, [publicly](https://antigo.ancine.gov.br/pt-br/fiscalizacao/cinema-fiscalizacao) available. Ticket-sales data was obtained through a [Brazilian Freedom of Information Act](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) request to Ancine. Movie-theater and chain information was de-identified to preserve sensitive revenue information.
+The analysis uses administrative micro-level data from the Brazilian national regulator ([Ancine](https://www.gov.br/ancine/pt-br)). The main sources of data used are:  <b>(a)</b> ticket-sales session-level data from exhibitors, from 2017 to 2019; and <b>(b)</b> inspection reports regarding screen quotas, [publicly](https://antigo.ancine.gov.br/pt-br/fiscalizacao/cinema-fiscalizacao) available. Ticket-sales data was obtained through a [Brazilian Freedom of Information Act](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) request to Ancine. Movie-theater and chain information ware de-identified to preserve sensitive revenue information.
 
-The whole dataset consists of 12,820,617 individual sessions, spanning 2,178 unique titles (823 of which are Brazilian), 70 movie theater chains, with 928 movie theaters and 3,797 screens.
+The whole dataset consists of 12,820,617 individual sessions, spanning 2,178 unique titles (823 of which are Brazilian), 70 movie theater chains, with 928 movie theaters and 3,797 viewing rooms.
 
 To run reduced-form regressions, I build a panel grouping data by movie-theater chain/year level, combining information regarding screen quota obligations and fulﬁllment from inspection data. As an auxiliary source of data, we also use Brazilian oﬃcial inﬂation statistics data to correct all prices for inflation using the IPCA price index.
 
