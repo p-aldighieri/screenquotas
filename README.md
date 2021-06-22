@@ -34,8 +34,8 @@ SCB_Complexo x Ano (receita brasileiros) - 2017 a 2019 - mesclado fiscalização
 
 SCB_Complexo x Ano (receita estrangeiros) - 2017 a 2019 - mesclado fiscalização.csv -- Movie theater yearly revenue and moviegoers (only for Brazilian movies), merged with inspection data, ready for regressions
 
-SCB_Grupo x Ano - 2017 a 2019 - mesclado fiscalização.csv -- Movie theater chain yearly revenue and moviegoers, merged with inspection data, ready for regressions
+SCB_Grupo x Ano - 2017 a 2018/2019 - mesclado fiscalização.csv -- Movie theater chain yearly revenue and moviegoers, merged with inspection data, ready for regressions
 
-SCB_Grupo x Ano (receita brasileiros) - 2017 a 2019 - mesclado fiscalização.csv -- Movie theater chain yearly revenue and moviegoers (only for foreign movies), merged with inspection data, ready for regressions
+SCB_Grupo x Ano (receita brasileiros) - 2017 a 2018/2019 - mesclado fiscalização.csv -- Movie theater chain yearly revenue and moviegoers (only for foreign movies), merged with inspection data, ready for regressions
 
-SCB_Grupo x Ano (receita estrangeiros) - 2017 a 2019 - mesclado fiscalização.csv -- Movie theater chain yearly revenue and moviegoers (only for Brazilian movies), merged with inspection data, ready for regressions
+SCB_Grupo x Ano (receita estrangeiros) - 2017 a 2018/2019 - mesclado fiscalização.csv -- Movie theater chain yearly revenue and moviegoers (only for Brazilian movies), merged with inspection data, ready for regressions
