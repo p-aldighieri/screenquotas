@@ -14,9 +14,13 @@ To run reduced-form regressions, I build a panel grouping data by movie-theater 
 
 ## Regressions
 
-I run several regression specifications. To capture causal effects of quotas' on outcome variables, the preferred specification uses the interaction between screen quotas and compliance levels weighted by different kernels. Kernel weighting mimics the fact that quota effects are likely higher in narrowly compliant agents (ones around 100% compliance). 
+I run several regression specifications. To capture causal effects of quotas' on outcome variables, the preferred specification uses the interaction between screen quotas and compliance levels weighted by different kernels (see image below). Kernel weighting mimics the fact that quota effects are likely higher in narrowly compliant agents (ones around 100% compliance).
+
+![kernels](https://github.com/pbragasoares/screenquotas/blob/main/Compliance_kernels.png?raw=true)
 
 ## File description
+
+Compliance_kernels.png -- kernel weighting function graphs
 
 Cota_fiscalizacao_2017_2019.csv -- Inspection data organized at movie theater-level  (see INSPECTION DATA notebook)
 
